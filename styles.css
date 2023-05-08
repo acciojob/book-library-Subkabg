@@ -2,6 +2,9 @@
 body{
 	background: #f8f8f8;
 }
+.book-library{
+	text-align: center;
+}
 div{
 	width: 100%;
 	height: 20px;
@@ -10,6 +13,6 @@ div{
 }
 	
 .div2{
-	background-color: #2ecc71;
+	background-color: rgb(46, 204, 113);
 	text-align:center;
 }
